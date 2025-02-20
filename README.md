@@ -17,3 +17,6 @@ Giving some other length:
 
 ![Capture3](https://github.com/dawoodkhatri1/Technohacks_PP_03/assets/136968266/73003853-4408-4b71-8a3c-cb1c9763d044)
  
+## License
+
+[MIT License](LICENSE)
